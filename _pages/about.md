@@ -15,7 +15,7 @@ News
 ======
 - 2025.03 Our paper [A Lightweight Encoder-Decoder Framework for Carpooling Route Planning](https://ieeexplore.ieee.org/abstract/document/10938355) has been accepted to *IEEE Transactions on Mobile Computing (TMC)*.
 - 2024.11 Our paper [Building Robust and Trustworthy HGNN Models: A Learnable Threshold Approach for Node Classification](https://dl.acm.org/doi/abs/10.1145/3707645) has been accepted to *ACM Transactions on Knowledge Discovery from Data (TKDD)*. 
-- 2024.09 Our paper [Mixture of Link Predictors on Graph] (https://arxiv.org/pdf/2402.08583) is accepted by NeurIPS 2024!
+- 2024.09 Our paper [Mixture of Link Predictors on Graph](https://arxiv.org/pdf/2402.08583) is accepted by NeurIPS 2024!
 
 Getting started
 ======
