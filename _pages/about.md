@@ -13,10 +13,13 @@ My research interests lie at the intersection of graph learning and recommender 
 
 News
 ======
-- 2025.03 Our paper [A Lightweight Encoder-Decoder Framework for Carpooling Route Planning](https://ieeexplore.ieee.org/abstract/document/10938355) has been accepted to *IEEE Transactions on Mobile Computing (TMC)*.
-- 2024.11 Our paper [Building Robust and Trustworthy HGNN Models: A Learnable Threshold Approach for Node Classification](https://dl.acm.org/doi/abs/10.1145/3707645) has been accepted to *ACM Transactions on Knowledge Discovery from Data (TKDD)*. 
-- 2024.09 Our paper [Mixture of Link Predictors on Graph](https://arxiv.org/pdf/2402.08583) is accepted by NeurIPS 2024!
+- 2025.03 Our paper [A Lightweight Encoder-Decoder Framework for Carpooling Route Planning](https://ieeexplore.ieee.org/abstract/document/10938355) has been accepted to TMC.
+- 2024.11 Our paper [Building Robust and Trustworthy HGNN Models: A Learnable Threshold Approach for Node Classification](https://dl.acm.org/doi/abs/10.1145/3707645) has been accepted to TKDD. 
+- 2024.09 Our paper [Mixture of Link Predictors on Graphs](https://arxiv.org/pdf/2402.08583) is accepted by NeurIPS 2024!
+- 2024.03 Our paper [Lightweight GCN Encoder and Sequential Decoder for Multi-Candidate Carpooling Route Planning in Road Network](https://dl.acm.org/doi/abs/10.1145/3589335.3648328) is accepted by The Web Conference 2024!
+- 2024.01 Our paper [Structural Fairness-aware Active Learning for Graph Neural Networks](https://openreview.net/pdf?id=bvjcMvMn7B) is accepted by ICLR 2024!
 
+<!--
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
@@ -49,3 +52,4 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
